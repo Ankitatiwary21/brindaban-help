@@ -33,3 +33,46 @@ brindaban-helper/
 │ ├── firebase.js
 │ ├── App.js
 │ └── index.js
+
+
+
+
+## ✅ How to Run Locally
+
+1. Clone the repository  
+   `git clone https://github.com/Ankitatiwary21/brindaban-help.git`
+
+2. Navigate to the folder  
+   `cd brindaban-help`
+
+3. Install dependencies  
+   `npm install`
+
+4. Start the development server  
+   `npm start`
+
+5. Open `http://localhost:3000` in your browser
+
+## 📦 Deployment
+
+You can deploy this app via:
+- **Firebase Hosting**
+- **GitHub Pages**
+
+Instructions available in `firebase.json` or GitHub Pages section of your project.
+
+## 🛡️ Admin Access
+
+- Login via **admin email and password**
+- Firebase Authentication is used to verify users
+
+## ✍️ Author
+
+**Ankita Tiwary**  
+📍 Jamshedpur, Jharkhand  
+💼 Data Analyst | Frontend Enthusiast  
+🔗 [LinkedIn](https://linkedin.com/in/ankitatiwary21)
+
+---
+
+
