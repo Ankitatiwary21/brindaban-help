@@ -2,6 +2,10 @@
 
 A web-based helper dashboard designed for **Brindaban Garden Society** to manage apartment blocks, notice boards, and suggestions efficiently.
 
+
+![Uploading {D1AC5F83-BA72-4818-A0CB-3EC5784B8047}.png…]()
+
+
 ## 🚀 Features
 
 - 🧾 **Admin Login** via Firebase Authentication
