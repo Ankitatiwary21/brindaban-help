@@ -21,3 +21,15 @@ A web-based helper dashboard designed for **Brindaban Garden Society** to manage
 
 ## 📁 Folder Structure
 
+brindaban-helper/
+├── public/
+│ └── apartment.jpg
+├── src/
+│ ├── components/
+│ │ ├── BlocksList.jsx
+│ │ ├── SuggestionsBox.jsx
+│ │ ├── NoticeBoard.jsx
+│ │ └── Login.jsx
+│ ├── firebase.js
+│ ├── App.js
+│ └── index.js
